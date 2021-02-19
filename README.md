@@ -16,3 +16,8 @@ Je vais aussi m'initier aux Outils :
 	- Symfony,
 	- REACT,
 	- MySQL.
+
+Mes passions :
+	- Pêche à l'aimant,
+	- Développement personnel,
+	- Jeux vidéo.
